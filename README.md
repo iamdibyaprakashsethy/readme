@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dibyaprakash;" />
 </h1>
 
 ### Hello there and Welcome to my GitHub Profile!, My name is Ankit Nanda, Full-time Linux User .
@@ -10,16 +10,6 @@ I was born in city Rairangpur, I did my 12th from Rairangpur College, Rairangpur
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thriveankit_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitnanda8090@gmail.com) 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamankitnanda&theme=rogue&bg_color=transparent&color=8b5cf6&line=8b5cf6&point=bf91f3&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=iamankitnanda&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
-</div>
 
 
 
