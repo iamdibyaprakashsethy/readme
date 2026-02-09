@@ -9,18 +9,12 @@ I was Born in City Kendujhar, I did my 12th from DD HSC, Kendujhar and I'm curre
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thriveankit_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitnanda8090@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thrivedibyax) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dibyaprakash7657@gmail.com) 
 
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-🐧 Proudly powered by Linux:
-
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-
 
 ## Languages I know:
  <img align = "left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="Java" width="50" height="50" />
