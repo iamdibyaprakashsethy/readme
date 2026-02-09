@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dibyaprakash;" />
 </h1>
 
-### Hello there and Welcome to my GitHub Profile!, My name is Ankit Nanda, Full-time Linux User .
+### Hello there and Welcome to my GitHub Profile!, My name is Dibyaprakash Sethy .
 
-I was born in city Rairangpur, I did my 12th from Rairangpur College, Rairangpur and I'm currently pursuing my Diploma in Computer Science and Engineering from BOSE, Cuttuck.
+I was Born in City Kendujhar, I did my 12th from DD HSC, Kendujhar and I'm currently pursuing my Diploma in Computer Science and Engineering from BOSE, Cuttuck.
 
 
 ## 🌐 Socials:
