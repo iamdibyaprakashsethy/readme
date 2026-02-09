@@ -31,8 +31,5 @@ I was Born in City Kendujhar, I did my 12th from DD HSC, Kendujhar and I'm curre
 
 
 ## Operating System I Use:
-
-<img align = "left" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.png" alt = "Arch Linux" width="80"/>
-
 <img  src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt = "Windows 10"/>
 ****
